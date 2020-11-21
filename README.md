@@ -5,7 +5,7 @@ The criteria is to see if 70% of loyal customers will buy new coffee from hidden
 
 The steps for predicting coffee farm customers are:
 
-**1. Sourcing and loading**
+* 1. Sourcing and loading
 
 Import packages
 Load data
